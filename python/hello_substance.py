@@ -1,1 +1,2 @@
-print("hello substance painter")
+if __name__ == "__main__":
+   print("hello substance painter")
